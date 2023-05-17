@@ -1,4 +1,4 @@
-1> start MYsql server and run db_skeleton.sql query
+1> start MYsql server and run db_skeleton.sql query and set db details in each service env
 
 2> run npm install in all 5 services
 
